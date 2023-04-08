@@ -1,0 +1,2 @@
+# slot
+brazil-slots
